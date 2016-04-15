@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0px; padding:0px;}
+.wrapper {width:1000px; height:4420px; background:#35180d; margin:auto; padding:0px; }
+.top_header {width:100%; height:88px; background:#c7c8ca;}
+.top_text {width:300px; height:50px; font-family:Arial, Helvetica, sans-serif; font-size:16px; color:#5f6060; padding:20px 0px 0px 10px; }
+.main {width:900px; height:4277px; background:#FFF; margin:auto; padding:0px;}
+.serction1 {width:100%; height:520px; background:url(images/section_1.jpg) no-repeat; }
+.section2 {width:100%; height:553px; background:url(images/section2.png) no-repeat; }
+.challenge {width:448px; height:500px; float:left;}
+.challenge_img {width:400px; padding:50px 20px 20px 70px;}
+.text {font-family:Arial, Helvetica, sans-serif; font-size:20px; color:#FFF; line-height:30px; margin-top: 15px; width: 340px;}
+.solution {width:448px; height:500px;  float:left;}
+.section3 {width:100%; height:673px; background:url(images/section3.png) no-repeat;}
+.website {width:150px; height:50px; font-size:35px; color:#35180d; padding:50px 0px 0px 0px; margin:auto; }
+.leadon {margin-top:20px;}
+.section4 {width:100%; height:1056px; background:#FFF; border:1px solid ;}
+.top_heading {width:100%; height:50px; padding:50px 0px 20px 0px;}
+.emailer {width:440px; height:auto; float:left; margin-left:35px;}
+.section5 {width:100%; height:506px; background:url(images/section5.jpg) no-repeat;}
+.veido_menu {width:900px; height:250px; margin:30px 0px 0px 40px;}
+.veido_menu ul{ list-style:none; float:left;}
+.veido_menu li{ list-style:none; float:left; margin:8px 33px 0px 0px;}
+.banner {width:100%; height:50px; padding:70px 0px 20px 0px;}
+.section6 {width:100%; height:465px; background:url(images/section6.png) no-repeat;}
+.face_img {width:280px; height:250px; float:left; margin:auto; margin:50px 0px 0px 180px;}
+.face_img2 {width:280px; height:250px; float:left; margin:auto;  margin:50px 0px 0px 0px;}
+
+.section7 {width:100%; height:465px; background:url(images/section7.png) no-repeat;}
+.results {width:800px; height:330px; margin:auto; padding-top:40px; }
+.results_text ul{width:800px; height:330px; }
+.results_text li{ list-style:disc; font-family:Arial, Helvetica, sans-serif; font-size:20px; color:#FFF; line-height:27px; height:40px;padding-top:20px; margin-left:18px; padding_bottom:10px;}
